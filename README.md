@@ -26,6 +26,11 @@ yarn seed:user
 yarn start
 ```
 
+### Acesse o swagger
+```
+http://localhost:3000/api
+```
+
 ## Tecnologias usadas
 - NodeJS
 - NestJS
