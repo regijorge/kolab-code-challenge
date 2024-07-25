@@ -42,3 +42,4 @@ yarn start
 - Não foi implementado um teste de integração para a API
 - Não foram implementados testes unitários
 - Existem alguns débitos técnicos com relação a tipagem
+- .env foi comitado, o que não é uma boa prática para segurança
