@@ -48,3 +48,4 @@ http://localhost:3000/api
 - Não foram implementados testes unitários
 - Existem alguns débitos técnicos com relação a tipagem
 - .env foi comitado, o que não é uma boa prática para segurança
+- Foram implementadas validações de autenticação, porém não de validação
